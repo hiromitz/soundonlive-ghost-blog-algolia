@@ -1,7 +1,8 @@
 {
-  "name": "@tryghost/algolia-fragmenter",
+  "name": "@hiromitz/algolia-fragmenter",
   "version": "0.2.4",
   "repository": "https://github.com/TryGhost/algolia/tree/master/packages/algolia-fragmenter",
+  "private": true,
   "author": "Ghost Foundation",
   "license": "MIT",
   "main": "index.js",
