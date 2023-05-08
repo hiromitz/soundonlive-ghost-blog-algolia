@@ -44,7 +44,7 @@
     "sinon": "14.0.0"
   },
   "dependencies": {
-    "@hiromitz/algolia-fragmenter": "file:../algolia-fragmenter",
+    "@tryghost/algolia-fragmenter": "file:../algolia-fragmenter",
     "@tryghost/algolia-indexer": "^0.2.1",
     "dotenv-webpack": "8.0.1",
     "netlify-lambda": "2.0.15",
